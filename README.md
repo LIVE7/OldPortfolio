@@ -25,7 +25,7 @@
 ```
 
 ## 2. URL 
-# http://0254.duckdns.org/portfolio/
+# http://0254.duckdns.org:9090/portfolio/
 
 
 
@@ -44,7 +44,7 @@
 - Contact부분에는 구글 지도를 사용하는 구글 맵 api를 사용했습니다.
 - Footer부분에는 이메일을 등록 할 수있는 Newsletter 입력란을 만들었고 Contact는 메시지를 보낼 수 있도록 구현했습니다.
 - 관리자는 관리자 페이지에서 메시지 목록과 뉴스레터 목록을 관리 할 수 있도록 하였습니다.
-- aws로 구동하며 어디에서나 http://0254.duckdns.org/portfolio/ 를 입력하면 접속이 가능하도록 하였습니다.
+- aws로 구동하며 어디에서나 http://0254.duckdns.org:9090/portfolio/ 를 입력하면 접속이 가능하도록 하였습니다.
 
 
 
