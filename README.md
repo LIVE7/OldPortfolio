@@ -31,7 +31,7 @@
 
 ## 3. 개요
  - **Spring Framework**로 구현한 **MVC패턴의 포털 사이트**입니다. 
- - Maven, MyBatis, Log4j, Lombok, 네이버 API, 구글 API 등 다양한 라이브러리 및 유틸리티를 활용하였습니다. 
+ - Maven, MyBatis, Log4j, Lombok, 구글 API 등 다양한 라이브러리 및 유틸리티를 활용하였습니다. 
  - 사이트에는 저의 능력과 프로젝트에 대한 정보를 한번에 볼 수 있도록 구현되어 있습니다.
  
  
