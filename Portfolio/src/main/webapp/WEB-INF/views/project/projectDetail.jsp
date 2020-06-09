@@ -244,7 +244,7 @@
 						</div>
 						<div class="col-md-6">
 							<div class="portfolio_right_text">
-								<h4>Blog 개인 인터넷 블로그 사이트</h4>
+								<h4>Blog BLOG 사이트</h4>
 								<p>oracle이 아닌 JPA와 H2 데이터베이스를 활용한 <br>블로그를 기획하게 되었습니다.<br>Spring Tool Suite를 이용하여 제작하였습니다.</p>
 								<ul class="list">
 									<li><span>Rating</span>: <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></li>
